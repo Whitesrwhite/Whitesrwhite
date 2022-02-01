@@ -1,10 +1,14 @@
-- 👋 Hi, I’m WHITE SER... 
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3 align="center">💖𝐖𝐇𝐈𝐓𝐄 𝐒𝐄𝐑💖</h3>
 
-<!---
-Whitesrwhite/Whitesrwhite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+ </a>
+</p>
+<div align="center">
+  <p align="center">
+<img src="https://i.imgur.com/kF5SpFM.jpeg"?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="250" height="250"/>
+</p>
+  <p align="center">
+<a href="https://github.com/Whitesrwhite"><img title="Author" src="https://img.shields.io/badge/Author-White-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
